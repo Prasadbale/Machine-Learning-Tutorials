@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![image](https://github.com/Prasadbale/Machine-Learning-Tutorials/assets/115901316/027e114b-5452-4ad2-934c-730eae4c07f2)
-" alt="Project Logo" width="400">
+  <img src="[![image](https://github.com/Prasadbale/Machine-Learning-Tutorials/assets/115901316/027e114b-5452-4ad2-934c-730eae4c07f2)](https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg)" alt="Project Logo" width="400">
 </p>
 
 <h1 align="center">Machine Learning Models Repository</h1>
