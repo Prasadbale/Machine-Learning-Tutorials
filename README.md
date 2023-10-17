@@ -2,7 +2,7 @@
   <img src="https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg" alt="Project Logo" width="400">
 </p>
 
-<h1 align="center">Machine Learning Models Repository</h1>
+<h1 align="center">Machine Learning</h1>
 
 <p align="left">
   Welcome to the "Machine Learning Models" repository! This comprehensive resource is designed to provide a detailed overview of various machine learning models, their applications, and practical implementation in Python. Whether you're a beginner just starting your journey in machine learning or an experienced practitioner, you'll find valuable information and code examples right here.
