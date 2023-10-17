@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg" alt="Project Logo" width="500">
-  <![Uploading image.png…]()
->
 </p>
 
 <h1 align="center">Machine Learning</h1>
